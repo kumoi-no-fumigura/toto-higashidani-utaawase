@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/toto-higashidani-utaawase",
  "yomi": "とうとうひがしだにうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（六題）",
+  "era": "永長2年（1097）",
+  "author": "未詳",
+  "desc": "比叡山東塔の東谷で催された歌合。苗代・水鶏・照射・擣衣・鷹狩・神楽の題で番え、詠みぶりを細かく論じた判詞がある。"
+ },
  "editions": [
   {
    "pid": "1879502",
